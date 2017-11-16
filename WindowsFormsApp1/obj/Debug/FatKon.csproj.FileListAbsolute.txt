@@ -1,0 +1,10 @@
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\FatKon.csprojResolveAssemblyReference.cache
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FatKon.resources
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\FatKon.csproj.GenerateResource.Cache
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\FatKon.csproj.CoreCompileInputs.cache
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\FatKon.Properties.Resources.resources
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\bin\Debug\FatKon.exe
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\bin\Debug\FatKon.pdb
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\FatKon.exe
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\FatKon.pdb
+C:\Users\chatl\source\repos\ACEM FatKon\WindowsFormsApp1\obj\Debug\FatKon.csproj.ResolveComReference.cache
